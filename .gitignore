@@ -1,3 +1,7 @@
 
 libgpiod-input
 spitest
+
+.settings
+.vscode
+build
